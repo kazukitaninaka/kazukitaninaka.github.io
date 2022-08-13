@@ -1,11 +1,17 @@
 @import "../global.css";
 
+.container {
+  margin-bottom: 30px;
+}
 .container ul {
   list-style-position: inside;
 }
-.container ul li {
-  margin: 10px 0;
-}
 .heading2 {
   color: var(--c-yellow);
+  margin-bottom: 10px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }

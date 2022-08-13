@@ -1,0 +1,13 @@
+@import "../global.css";
+.heading2 {
+  color: var(--c-yellow);
+  margin-bottom: 10px;
+}
+.section {
+  h3 {
+    margin: 5px;
+  }
+  ul {
+    list-style-position: inside;
+  }
+}
