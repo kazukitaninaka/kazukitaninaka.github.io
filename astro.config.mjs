@@ -5,6 +5,5 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react()],
-  site: "https://www.azoookid.github.io",
-  base: "/",
+  site: "https://www.kazukitaninaka.github.io",
 });
