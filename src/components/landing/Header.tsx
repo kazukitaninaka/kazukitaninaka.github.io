@@ -1,6 +1,6 @@
-import styles from "../../styles/landing/Info.module.css";
+import styles from "../../styles/landing/Header.module.scss";
 
-const Info = () => {
+const Header = () => {
   return (
     <div className={styles.container}>
       <h1 className={styles.heading1}>
@@ -10,4 +10,4 @@ const Info = () => {
   );
 };
 
-export default Info;
+export default Header;
