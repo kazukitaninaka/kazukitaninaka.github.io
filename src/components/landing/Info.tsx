@@ -5,7 +5,9 @@ import TwitterIcon from "/TwitterIcon.png";
 const Info = () => {
   return (
     <div className={styles.container}>
-      <h1 className={styles.heading1}>👋azoookid.me</h1>
+      <h1 className={styles.heading1}>
+        <span className={styles.emoji}>🌏</span> azoookid.me
+      </h1>
       <ul className={styles.socialMediaContainer}>
         <li>
           <img src={GitHubIcon} className={styles.socialMediaIcon} />

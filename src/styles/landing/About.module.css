@@ -3,6 +3,9 @@
 .container ul {
   list-style-position: inside;
 }
+.container ul li {
+  margin: 10px 0;
+}
 .heading2 {
   color: var(--c-yellow);
 }

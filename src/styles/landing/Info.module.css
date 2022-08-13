@@ -2,6 +2,18 @@
 .container {
   margin: 0 auto;
 }
+.emoji {
+  display: inline-block;
+  animation: rotating 5s linear infinite;
+}
+@keyframes rotating {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 .heading1 {
   font-size: 2.5rem;
   font-weight: 700;
