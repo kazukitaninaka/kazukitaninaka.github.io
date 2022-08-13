@@ -15,7 +15,7 @@ const History = () => {
             <li>
               <a href="https://corp.kaminashi.jp/">Kaminashi, Inc.</a>
               <ul>
-                <li>Stacks: React, TypeScript, ReactNative, Golang</li>
+                <li>Stacks: React, TypeScript, React Native, Golang</li>
                 <li>Duration: 7 months</li>
               </ul>
             </li>
