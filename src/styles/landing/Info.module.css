@@ -1,3 +1,4 @@
+@import "../global.css";
 .container {
   margin: 0 auto;
 }
@@ -7,6 +8,7 @@
   line-height: 1.2;
   margin-bottom: 1.5rem;
   text-align: center;
+  color: var(--c-yellow);
 }
 .paragraph {
   font-size: 1.5rem;

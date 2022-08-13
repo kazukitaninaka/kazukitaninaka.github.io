@@ -1,4 +1,4 @@
-import styles from "./Info.module.css";
+import styles from "../../styles/landing/Info.module.css";
 import GitHubIcon from "/GitHubIcon.png";
 import TwitterIcon from "/TwitterIcon.png";
 

@@ -1,0 +1,8 @@
+@import "../global.css";
+
+.container ul {
+  list-style-position: inside;
+}
+.heading2 {
+  color: var(--c-yellow);
+}

@@ -1,9 +1,9 @@
-import styles from "./About.module.css";
+import styles from "../../styles/landing/About.module.css";
 
 const About = () => {
   return (
     <div className={styles.container}>
-      <h2>🧑‍💻About</h2>
+      <h2 className={styles.heading2}>🧑‍💻About</h2>
       <ul>
         <li>@azoookid / Kazuki Taninaka</li>
         <li>Web frontend engineer based in Tokyo</li>

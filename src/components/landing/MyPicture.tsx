@@ -1,6 +1,6 @@
 import React from "react";
 import Me from "/me.jpg";
-import styles from "./MyPicture.module.css";
+import styles from "../../styles/landing/MyPicture.module.css";
 
 const MyPicture: React.FC = () => {
   return (
