@@ -1,6 +1,6 @@
 import styles from "../../styles/landing/Info.module.css";
-import GitHubIcon from "/GitHubIcon.png";
-import TwitterIcon from "/TwitterIcon.png";
+import GitHub from "/github-brands.svg";
+import Twitter from "/twitter-brands.svg";
 
 const Info = () => {
   return (
@@ -10,10 +10,10 @@ const Info = () => {
       </h1>
       <ul className={styles.socialMediaContainer}>
         <li>
-          <img src={GitHubIcon} className={styles.socialMediaIcon} />
+          <img src={GitHub} className={styles.socialMediaIcon} />
         </li>
         <li>
-          <img src={TwitterIcon} className={styles.socialMediaIcon} />
+          <img src={Twitter} className={styles.socialMediaIcon} />
         </li>
       </ul>
     </div>

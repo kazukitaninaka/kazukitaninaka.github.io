@@ -12,6 +12,7 @@ const About = () => {
           English(Conversational-level)
         </li>
         <li>Frameworks: React, Next.js, React Native</li>
+        <li>Likes: being in nature, playing Splatoon, smoking shisha</li>
       </ul>
     </div>
   );
