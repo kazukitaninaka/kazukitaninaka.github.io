@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className={styles.container}>
       <h1 className={styles.heading1}>
-        <span className={styles.emoji}>🌏</span> azoookid.me
+        <span className={styles.emoji}>🌏</span> azoookid.dev
       </h1>
     </div>
   );
