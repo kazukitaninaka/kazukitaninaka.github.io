@@ -1,0 +1,13 @@
+.socialMediaContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  gap: 20px;
+}
+.socialMediaContainer li {
+  list-style: none;
+  width: 50px;
+}
+.socialMediaContainer li img {
+  width: 100%;
+}
