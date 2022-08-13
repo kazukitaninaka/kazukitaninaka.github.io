@@ -1,6 +1,6 @@
 @import "../global.css";
 .heading2 {
-  color: var(--c-yellow);
+  color: var(--c-primary);
   margin-bottom: 10px;
 }
 
@@ -12,7 +12,7 @@
 .section {
   .heading3 {
     margin-bottom: 10px;
-    color: #f55353;
+    color: var(--c-secondary);
   }
   .list {
     display: flex;

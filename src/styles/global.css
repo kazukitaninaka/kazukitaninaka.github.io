@@ -1,4 +1,5 @@
 :root {
-  --c-yellow: #f6f54d;
-  --c-navy: #143f6b;
+  --c-primary: #f6f54d;
+  --c-bg: #143f6b;
+  --c-secondary: #f55353;
 }

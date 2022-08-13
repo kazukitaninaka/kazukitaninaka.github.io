@@ -9,7 +9,7 @@ const History = () => {
           <h3 className={styles.heading3}>Internships</h3>
           <ul className={styles.list}>
             <li>
-              Kaminashi, Inc.
+              <a href="https://corp.kaminashi.jp/">Kaminashi, Inc.</a>
               <ul>
                 <li>Stacks: React, TypeScript, ReactNative, Golang</li>
                 <li>Duration: 7 months</li>
