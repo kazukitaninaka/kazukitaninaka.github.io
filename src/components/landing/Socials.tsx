@@ -6,10 +6,14 @@ const Socials = () => {
   return (
     <ul className={styles.socialMediaContainer}>
       <li>
-        <img src={GitHub} className={styles.socialMediaIcon} />
+        <a href="https://github.com/kazukitaninaka" target="_blank">
+          <img src={GitHub} className={styles.socialMediaIcon} />
+        </a>
       </li>
       <li>
-        <img src={Twitter} className={styles.socialMediaIcon} />
+        <a href="https://twitter.com/azoookid" target="_blank">
+          <img src={Twitter} className={styles.socialMediaIcon} />
+        </a>
       </li>
     </ul>
   );
