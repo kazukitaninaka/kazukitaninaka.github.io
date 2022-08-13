@@ -6,6 +6,10 @@ const History = () => {
       <h2 className={styles.heading2}>⌛ History</h2>
       <div className={styles.sections}>
         <div className={styles.section}>
+          <h3 className={styles.heading3}>Work Experiences</h3>
+          <p>Yet to come...</p>
+        </div>
+        <div className={styles.section}>
           <h3 className={styles.heading3}>Internships</h3>
           <ul className={styles.list}>
             <li>
