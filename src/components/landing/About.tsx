@@ -1,4 +1,4 @@
-import styles from "../../styles/landing/About.module.css";
+import styles from "../../styles/landing/About.module.scss";
 
 const About = () => {
   return (
@@ -8,7 +8,8 @@ const About = () => {
         <li>@azoookid / Kazuki Taninaka</li>
         <li>Web frontend engineer based in Tokyo</li>
         <li>
-          Languages: TypeScript, JavaScript / Node.js, Golang, Japanese, English
+          Languages: TypeScript, JavaScript / Node.js, Golang, Japanese,
+          English(Conversational-level)
         </li>
         <li>Frameworks: React, Next.js, React Native</li>
       </ul>

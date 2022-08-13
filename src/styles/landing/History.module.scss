@@ -3,11 +3,30 @@
   color: var(--c-yellow);
   margin-bottom: 10px;
 }
+
+.sections {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 .section {
-  h3 {
-    margin: 5px;
+  .heading3 {
+    margin-bottom: 10px;
+    color: #f55353;
+  }
+  .list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .paragraph {
+    margin-top: 10px;
+    font-size: 0.8rem;
   }
   ul {
     list-style-position: inside;
+    li {
+      padding-left: 1em;
+    }
   }
 }
