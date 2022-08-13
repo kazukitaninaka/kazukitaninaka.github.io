@@ -6,5 +6,5 @@ import react from "@astrojs/react";
 export default defineConfig({
   integrations: [react()],
   site: "https://www.azoookid.github.io",
-  base: "/my-astro-portfolio",
+  base: "/",
 });
