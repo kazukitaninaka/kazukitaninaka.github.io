@@ -6,7 +6,13 @@ const MyPicture: React.FC = () => {
   return (
     <div className={styles.container}>
       <div className={styles.pictureContainer}>
-        <img src={Me} className={styles.me} />
+        <img
+          src={Me}
+          className={styles.me}
+          width={150}
+          height={150}
+          alt="azoookid's profile picture"
+        />
       </div>
     </div>
   );

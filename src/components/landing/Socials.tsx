@@ -7,12 +7,24 @@ const Socials = () => {
     <ul className={styles.socialMediaContainer}>
       <li>
         <a href="https://github.com/kazukitaninaka" target="_blank">
-          <img src={GitHub} className={styles.socialMediaIcon} />
+          <img
+            src={GitHub}
+            className={styles.socialMediaIcon}
+            width={35}
+            height={35}
+            alt="GitHub icon"
+          />
         </a>
       </li>
       <li>
         <a href="https://twitter.com/azoookid" target="_blank">
-          <img src={Twitter} className={styles.socialMediaIcon} />
+          <img
+            src={Twitter}
+            className={styles.socialMediaIcon}
+            width={35}
+            height={35}
+            alt="Twitter icon"
+          />
         </a>
       </li>
     </ul>
