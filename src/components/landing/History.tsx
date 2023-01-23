@@ -20,10 +20,10 @@ const History = () => {
               </ul>
             </li>
           </ul>
-          <p className={styles.paragraph}>
+          {/* <p className={styles.paragraph}>
             I have also joined short web dev internships at several companies
             like CyberAgent, Cybozu, Rakuten etc...
-          </p>
+          </p> */}
         </div>
         <div className={styles.section}>
           <h3 className={styles.heading3}>Education</h3>
