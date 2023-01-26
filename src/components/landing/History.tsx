@@ -28,7 +28,14 @@ const History = () => {
         <div className={styles.section}>
           <h3 className={styles.heading3}>Education</h3>
           <ul>
-            <li>Waseda University, School of International Liberal Studies</li>
+            <li>
+              Waseda University, School of International Liberal Studies
+              (Apr.2019-Mar.2024)
+            </li>
+            <li>
+              University of Copenhagen, Department of Computer Science
+              (Sep.2022-Jun.2023)
+            </li>
           </ul>
         </div>
       </div>
