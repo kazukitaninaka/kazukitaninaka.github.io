@@ -6,7 +6,7 @@ const About = () => {
       <h2 className={styles.heading2}>🧑‍💻 About</h2>
       <ul className={styles.list}>
         <li>@azoookid / Kazuki Taninaka</li>
-        <li>Web frontend engineer based in Tokyo</li>
+        <li>Web developer based in Tokyo</li>
         <li>
           Languages: TypeScript, JavaScript / Node.js, Golang, Japanese,
           English(Conversational-level)
