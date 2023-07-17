@@ -13,6 +13,13 @@ const History = () => {
           <h3 className={styles.heading3}>Internships</h3>
           <ul className={styles.list}>
             <li>
+              <a href="https://www.cyberagent.co.jp/">CyberAgent, Inc.</a>
+              <ul>
+                <li>Stacks: JavaScript, TypeScript</li>
+                <li>Duration: 2 months</li>
+              </ul>
+            </li>
+            <li>
               <a href="https://corp.kaminashi.jp/">Kaminashi, Inc.</a>
               <ul>
                 <li>Stacks: React, TypeScript, React Native, Golang</li>
