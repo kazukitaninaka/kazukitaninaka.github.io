@@ -15,8 +15,8 @@ const History = () => {
             <li>
               <a href="https://www.cyberagent.co.jp/">CyberAgent, Inc.</a>
               <ul>
-                <li>Stacks: JavaScript, TypeScript</li>
-                <li>Duration: 2 months</li>
+                <li>Stacks: JavaScript, TypeScript, SolidJS, Jotai</li>
+                <li>Duration: 3 months</li>
               </ul>
             </li>
             <li>
